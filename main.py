@@ -11,6 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print("hello world!")
     print_hi('PyCharm')
 
 # 表示修改过
